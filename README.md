@@ -7,7 +7,7 @@
 </p>
 
 <p>
-	Qualified member of the Spatial Sciences Institute (SSSI) with project experience<br/>
+	A Surveyor and a Geospatial Engineer a Member of the Spatial Sciences Institute (SSSI) with project experience<br/>
 	spanning Sydney Light Rail, Dubai Metro, and other major infrastructure programs.
 </p>
 
