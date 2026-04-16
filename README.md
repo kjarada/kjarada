@@ -11,9 +11,6 @@
 	spanning Sydney Light Rail, Dubai Metro, and other major infrastructure programs.
 </p>
 
-<a href="https://linkedin.com/in/jaradak" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
 </div>
 
