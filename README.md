@@ -3,7 +3,7 @@
 <h1>Code is my Bushido</h1>
 
 <p>
-	<strong>Surveyor</strong> &middot; <strong>Geospatial Engineer</strong> &middot; <strong>Builder of Katana</strong>
+	<strong>Surveyor</strong> &middot; <strong>Geospatial Engineer</strong> &middot; <strong>Builder of Katana & the 12d Model Web Viewer</strong>
 </p>
 
 <p>
@@ -25,8 +25,6 @@
 
 <p align="center">
 	<a href="https://github.com/kjarada/Katana"><img src="https://img.shields.io/badge/repository-kjarada%2FKatana-181717?style=for-the-badge&logo=github&logoColor=white" alt="Katana on GitHub" /></a>
-	&nbsp;
-	<img src="https://img.shields.io/badge/C%2B%2B-26-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++26" />
 	&nbsp;
 	<img src="https://img.shields.io/badge/Qt-6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt 6" />
 	&nbsp;
